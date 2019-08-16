@@ -1,5 +1,4 @@
 # survey_customvals
-Customizing URLs for tracking purposes
 
 SurveyMonkey allows users to create custom values that may help track responses. However, SurveyMonkey only creates the custom value placeholder: [custom_value] 
 
